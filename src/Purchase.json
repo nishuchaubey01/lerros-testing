@@ -1,0 +1,16 @@
+[
+    {
+        "PO": 123,
+        "Style": "Traditional",
+        "Season": "Summer",
+        "Quantity": "1000",
+        "Color": "red"
+    },
+    {
+        "PO": 124,
+        "Style": "Traditional",
+        "Season": "Winter",
+        "Quantity": "400",
+        "Color": "Blue"
+    }
+]
