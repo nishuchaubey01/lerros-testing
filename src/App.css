@@ -7,6 +7,10 @@
   text-align: center;
  
 }
+
+.nav-bar-wrapper a{
+  padding-left: 30px;
+}
 /* table {
   border: 2px solid forestgreen;
   width: 400px;
