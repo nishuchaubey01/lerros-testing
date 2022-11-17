@@ -5,7 +5,7 @@ import Header from './Header/Header';
  import Login from './Header/LOGIN/Login';
 //  import Navbar from './Header/Navbar/Navbar';
 import Purchase from './Purchase/Purchase';
-import Display from './API/Display'
+// import Display from './API/Display'
 import BoxDetails from './Components/FourthPage/BoxDetails';
 
 

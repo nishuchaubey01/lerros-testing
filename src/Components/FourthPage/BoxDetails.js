@@ -1,6 +1,6 @@
 import React from 'react'
 import './BoxDetails.css'
-import 
+
 
 const BoxDetails = () => {
   return (
