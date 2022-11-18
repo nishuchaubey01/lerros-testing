@@ -3,7 +3,7 @@
         "PO": 123,
         "Style": "Traditional",
         "Season": "Summer",
-        "Quantity": "1000",
+        "Quantity": "1200",
         "Color": "red"
     },
     {
@@ -15,35 +15,35 @@
         "Color": "Blue"
     },
     {
-        "PO": 123,
-        "Style": "Traditional",
-        "Season": "Summer",
-        "Quantity": "1000",
-        "Color": "red"
-    },
-    {
-        "PO": 124,
-        "Style": "Traditional",
-        "Season": "Winter",
-        "Quantity": "400",
-        "Color": "Blue"
-    },
-    {
         "PO": 125,
         "Style": "Traditional",
-        "Season": "Winter",
-        "Quantity": "400",
-        "Color": "Blue"
-    },
-    {
-        "PO": 123,
-        "Style": "Traditional",
         "Season": "Summer",
-        "Quantity": "1000",
+        "Quantity": "500",
         "Color": "red"
     },
     {
         "PO": 124,
+        "Style": "Traditional",
+        "Season": "Winter",
+        "Quantity": "700",
+        "Color": "Blue"
+    },
+    {
+        "PO": 126,
+        "Style": "Traditional",
+        "Season": "Winter",
+        "Quantity": "900",
+        "Color": "Blue"
+    },
+    {
+        "PO": 127,
+        "Style": "Traditional",
+        "Season": "Summer",
+        "Quantity": "800",
+        "Color": "red"
+    },
+    {
+        "PO": 128,
         "Style": "Traditional",
         "Season": "Winter",
         "Quantity": "400",
